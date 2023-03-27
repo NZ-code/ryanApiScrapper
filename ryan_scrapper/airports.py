@@ -49,6 +49,7 @@ class Airport:
 
     def to_dict(self):
         return {
+            'code': self.code,
             'name': self.name,
             'city': self.city,
             'country': self.country,

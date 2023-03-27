@@ -1,0 +1,77 @@
+{
+  'termsOfUse': 'https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED',
+  'currency': 'EUR',
+  'currPrecision': 2,
+  'routeGroup': 'CITY',
+  'tripType': 'OTHER',
+  'upgradeType': 'PLUS',
+  'trips': [
+    {
+      'origin': 'BER',
+      'originName': 'Berlin (Brandenburg)',
+      'destination': 'BGY',
+      'destinationName': 'Milan (Bergamo)',
+      'routeGroup': 'CITY',
+      'tripType': 'OTHER',
+      'upgradeType': 'PLUS',
+      'dates': [
+        {
+          'dateOut': '2023-03-27T00:00:00.000',
+          'flights': [
+            {
+              'faresLeft': 1,
+              'flightKey': 'FR~3311~ ~~BER~03/27/2023 19:05~BGY~03/27/2023 20:50~~',
+              'infantsLeft': 17,
+              'regularFare': {
+                'fareKey': 'DYUNFNNDQF74FR7W6R5GQ27HAIVS2VHE4ZW42UWLUOTA7TVIVGX7AXZO23PGTXOV6XQJXCNQWY7475HHHRQ73IDUPWODQPOGIS3WYYXG2KQZFAC6U2XARGYM2GYT2C33ZF4LBAPG5ZSAJU3WCOAUS5HHUTHWD64TW2UD5ZY3AHNXK3DBGS65EHPAJENHZ2HV5DE5YGWOMV4Z4ZM5H4AK24WOZEFLUREV6VUHN7QFHTGBFNRVEMGTNNYRPTEMZNWO',
+                'fareClass': 'F',
+                'fares': [
+                  {
+                    'type': 'ADT',
+                    'amount': 191.24,
+                    'count': 1,
+                    'hasDiscount': False,
+                    'publishedFare': 191.24,
+                    'discountInPercent': 0,
+                    'hasPromoDiscount': False,
+                    'discountAmount': 0.0,
+                    'hasBogof': False
+                  }
+                ]
+              },
+              'operatedBy': 'Malta Air',
+              'segments': [
+                {
+                  'segmentNr': 0,
+                  'origin': 'BER',
+                  'destination': 'BGY',
+                  'flightNumber': 'FR 3311',
+                  'time': [
+                    '2023-03-27T19:05:00.000',
+                    '2023-03-27T20:50:00.000'
+                  ],
+                  'timeUTC': [
+                    '2023-03-27T17:05:00.000Z',
+                    '2023-03-27T18:50:00.000Z'
+                  ],
+                  'duration': '01:45'
+                }
+              ],
+              'flightNumber': 'FR 3311',
+              'time': [
+                '2023-03-27T19:05:00.000',
+                '2023-03-27T20:50:00.000'
+              ],
+              'timeUTC': [
+                '2023-03-27T17:05:00.000Z',
+                '2023-03-27T18:50:00.000Z'
+              ],
+              'duration': '01:45'
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  'serverTimeUTC': '2023-03-27T14:44:25.207Z'
+}
