@@ -2,9 +2,12 @@ import datetime
 import ryan_scrapper
 import geography
 import search
+import path_finding
 
 if __name__ == "__main__":
-    departure = "RMI"
-    destination = "PRG"
-    flights = search.search_by_airports(departure, destination)
-    ryan_scrapper.save_flights_to_scv(flights)
+    routes = ryan_scrapper.get_all_routes_with_distance()
+    ryan_scrapper.save_all_routes_to_csv(routes)
+    print("routes found")
+
+    path = path_finding.find_shortest_path(routes, 'INI', 'GDN')
+    print(path)
