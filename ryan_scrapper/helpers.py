@@ -1,5 +1,7 @@
 import pandas as pd
 
+from ryan_scrapper.flights import Flight
+
 
 def get_airport_by_code(airports, code):
     for airport in airports:
@@ -7,7 +9,18 @@ def get_airport_by_code(airports, code):
             return airport
     return None
 
-
+def get_all_flights_by_departure_code(flights, dep_code):
+    all_flights = []
+    for flight in flights:
+        if flight.dep_air_code == dep_code:
+            all_flights.append(flight)
+    return all_flights
+def get_all_flights_by_destination_code(flights, dest_code):
+    all_flights = []
+    for flight in flights:
+        if flight.dest_air_code == dest_code:
+            all_flights.append(flight)
+    return all_flights
 def save_airports_to_csv(airports):
     airports_dict = [airport.to_dict() for airport in airports]
     df = pd.DataFrame.from_records(airports_dict)
@@ -19,7 +32,15 @@ def save_flights_to_csv(flights):
     df = pd.DataFrame.from_records(flights_dict)
     df.to_csv('output/flights.csv', index=False)
 
-
+def get_flights_from_csv():
+    flights = []
+    df = pd.read_csv('input/april_may_euro.csv')
+    flights_dict = df.to_dict('records')
+    for flight_dict in flights_dict:
+        flight = Flight(flight_dict)
+        flights.append(flight)
+    return flights
 def save_all_routes_to_csv(routes):
     df = pd.DataFrame(routes)
     df.to_csv('output/routes.csv', index=False, header=False)
+

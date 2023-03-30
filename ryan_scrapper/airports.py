@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import requests
 
 import json
@@ -58,7 +60,6 @@ class Airport:
             'longitude': self.longitude,
             'time_zone': self.time_zone
         }
-
 
 def get_airports():
     all_airports = []

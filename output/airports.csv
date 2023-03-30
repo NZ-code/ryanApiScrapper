@@ -1,0 +1,239 @@
+code,name,city,country,is_schengen,latitude,longitude,time_zone
+AAL,Aalborg,Aalborg,Denmark,True,57.0534,9.5057,Europe/Copenhagen
+AAR,Aarhus,Aarhus,Denmark,True,56.3,10.619,Europe/Copenhagen
+ABZ,Aberdeen,Aberdeen,United Kingdom,False,57.2019,-2.19778,Europe/London
+ACE,Lanzarote,Lanzarote,Spain,True,28.9455,-13.6052,Atlantic/Canary
+AGA,Agadir,Agadir,Morocco,False,30.325,-9.41307,Africa/Casablanca
+AGP,Malaga,Malaga,Spain,True,36.6749,-4.49911,Europe/Madrid
+AHO,Alghero,Alghero,Italy,True,40.6321,8.29077,Europe/Rome
+ALC,Alicante,Alicante,Spain,True,38.2822,-0.558156,Europe/Madrid
+AMM,Amman Jordan,Amman,Jordan,False,31.9497,35.9328,Asia/Amman
+AMS,Amsterdam,Amsterdam,Netherlands,True,52.3105,4.76827,Europe/Amsterdam
+AOI,Ancona,Ancona,Italy,True,43.6163,13.3623,Europe/Rome
+AQJ,Aqaba Jordan,Aqaba,Jordan,False,29.364183,35.010504,Asia/Amman
+ARN,Stockholm Arlanda,Stockholm,Sweden,True,59.6498,17.9239,Europe/Stockholm
+ATH,Athens,Athens,Greece,True,37.9364,23.9445,Europe/Athens
+BCN,Barcelona,Barcelona,Spain,True,41.2971,2.07846,Europe/Madrid
+BDS,Brindisi,Brindisi,Italy,True,40.6576,17.947,Europe/Rome
+BER,Berlin Brandenburg,Berlin,Germany,True,52.3667,13.5033,Europe/Berlin
+BFS,Belfast International,Belfast,United Kingdom,False,54.6575,-6.2158,Europe/London
+BGY,Milan Bergamo,Bergamo,Italy,True,45.6739,9.70417,Europe/Rome
+BHX,Birmingham,Birmingham,United Kingdom,False,52.4539,-1.74803,Europe/London
+BIQ,Biarritz,Biarritz,France,True,43.4684,-1.52332,Europe/Paris
+BJV,Bodrum,Bodrum,Turkey,False,37.2506,27.6642,Europe/Istanbul
+BLL,Billund,Billund,Denmark,True,55.7403,9.15178,Europe/Copenhagen
+BLQ,Bologna,Bologna,Italy,True,44.5354,11.2887,Europe/Rome
+BNX,Banja Luka,Banja Luka,Bosnia & Herzegovina,False,44.5629,17.1731,Europe/Sarajevo
+BOD,Bordeaux,Bordeaux,France,True,44.8283,-0.715556,Europe/Paris
+BOH,Bournemouth,Bournemouth,United Kingdom,False,50.78,-1.8425,Europe/London
+BOJ,Burgas,Burgas,Bulgaria,False,42.3413,27.3055,Europe/Sofia
+BRE,Bremen,Bremen,Germany,True,53.0475,8.78667,Europe/Berlin
+BRI,Bari,Bari,Italy,True,41.1389,16.7606,Europe/Rome
+BRQ,Brno,Brno,Czech Republic,True,49.1513,16.6944,Europe/Prague
+BRS,Bristol,Bristol,United Kingdom,False,51.3827,-2.71909,Europe/London
+BRU,Brussels,Brussels,Belgium,True,50.9014,4.48444,Europe/Brussels
+BSL,Basel,Basel,Switzerland,True,47.5896,7.52991,Europe/Paris
+BTS,Bratislava,Bratislava,Slovakia,True,48.1702,17.2127,Europe/Bratislava
+BUD,Budapest,Budapest,Hungary,True,47.4369,19.2556,Europe/Budapest
+BVA,Paris Beauvais,Paris,France,True,49.4544,2.11278,Europe/Paris
+BVE,Brive,Brive,France,True,45.1508,1.46917,Europe/Paris
+BZG,Bydgoszcz,Bydgoszcz,Poland,True,53.0968,17.9777,Europe/Warsaw
+BZR,Beziers,Beziers,France,True,43.3235,3.3539,Europe/Paris
+CAG,Cagliari,Cagliari,Italy,True,39.2515,9.05428,Europe/Rome
+CCF,Carcassonne,Carcassonne,France,True,43.216,2.30632,Europe/Paris
+CDT,Castellon (Valencia),Castellon,Spain,True,39.999,0.026,Europe/Madrid
+CFE,Clermont,Clermont Ferrand,France,True,45.7867,3.16917,Europe/Paris
+CFU,Corfu,Corfu,Greece,True,39.6019,19.9117,Europe/Athens
+CGN,Cologne,Cologne,Germany,True,50.8659,7.14274,Europe/Berlin
+CHQ,Chania,Chania,Greece,True,35.5317,24.1497,Europe/Athens
+CIA,Rome Ciampino,Rome,Italy,True,41.7994,12.5949,Europe/Rome
+CIY,Comiso,Comiso,Italy,True,36.9946,14.6072,Europe/Rome
+CLJ,Cluj,Cluj,Romania,False,46.785,23.6861,Europe/Bucharest
+CPH,Copenhagen,Copenhagen,Denmark,True,55.6181,12.6561,Europe/Copenhagen
+CRL,Brussels Charleroi,Charleroi,Belgium,True,50.4592,4.45382,Europe/Brussels
+CRV,Crotone,Crotone,Italy,True,38.99722,17.08028,Europe/Rome
+CTA,Catania,Catania,Italy,True,37.4668,15.0664,Europe/Rome
+CUF,Cuneo,Cuneo,Italy,True,44.547,7.62322,Europe/Rome
+CWL,Cardiff,Cardiff,United Kingdom,False,51.3967,-3.34333,Europe/London
+DBV,Dubrovnik,Dubrovnik,Croatia,True,42.5614,18.2683,Europe/Zagreb
+DLE,Dole,Dole,France,True,47.039,5.42725,Europe/Paris
+DLM,Dalaman,Dalaman,Turkey,False,36.7147,28.7928,Europe/Istanbul
+DRS,Dresden,Dresden,Germany,True,51.1344,13.7681,Europe/Berlin
+DTM,Dortmund,Dortmund,Germany,True,51.5183,7.61224,Europe/Berlin
+DUB,Dublin,Dublin,Ireland,False,53.4213,-6.27007,Europe/Dublin
+EDI,Edinburgh,Edinburgh,United Kingdom,False,55.95,-3.3725,Europe/London
+EFL,Kefalonia,Kefalonia,Greece,True,38.1201,20.5005,Europe/Athens
+EGC,Bergerac,Bergerac,France,True,44.8253,0.518611,Europe/Paris
+EIN,Eindhoven,Eindhoven,Netherlands,True,51.4501,5.37453,Europe/Amsterdam
+EMA,East Midlands,East Midlands,United Kingdom,False,52.8311,-1.32806,Europe/London
+ESU,Essaouira,Essaouira,Morocco,False,31.3918,-9.6757,Africa/Casablanca
+ETM,Eilat Ramon,Eilat,Israel,False,29.7237,35.0114,Asia/Jerusalem
+EXT,Exeter,Exeter,United Kingdom,False,50.7344,-3.4139,Europe/London
+FAO,Faro,Faro,Portugal,True,37.0144,-7.96591,Europe/Lisbon
+FCO,Rome Fiumicino,Rome,Italy,True,41.8045,12.2508,Europe/Rome
+FEZ,Fez,Fez,Morocco,False,33.9273,-4.97796,Africa/Casablanca
+FKB,Karlsruhe / Baden-Baden,Karlsruhe,Germany,True,48.7794,8.0805,Europe/Berlin
+FMM,Memmingen,Memmingen,Germany,True,47.9888,10.2395,Europe/Berlin
+FMO,Münster,Münster,Germany,True,52.1346,7.68483,Europe/Berlin
+FNC,Madeira Funchal,Funchal,Portugal,True,32.6942,-16.7781,Atlantic/Madeira
+FNI,Nimes,Nimes,France,True,43.7574,4.41635,Europe/Paris
+FRL,Bologna Forli,Bologna,Italy,True,44.1948,12.0701,Europe/Rome
+FSC,Figari,Figari,France,True,41.5006,9.09778,Europe/Paris
+FUE,Fuerteventura,Fuerteventura,Spain,True,28.4527,-13.8638,Atlantic/Canary
+GDN,Gdansk,Gdansk,Poland,True,54.3776,18.4662,Europe/Warsaw
+GLA,Glasgow,Glasgow,United Kingdom,False,55.87194,-4.43306,Europe/London
+GNB,Grenoble,Grenoble,France,True,45.3629,5.32937,Europe/Paris
+GOA,Genoa,Genoa,Italy,True,44.4133,8.8375,Europe/Rome
+GOT,Göteborg Landvetter,Gothenburg,Sweden,True,57.6741,12.2925,Europe/Stockholm
+GRO,Barcelona Girona,Girona,Spain,True,41.901,2.76055,Europe/Madrid
+HAM,Hamburg,Hamburg,Germany,True,53.63028,9.99111,Europe/Berlin
+HEL,Helsinki,Helsinki,Finland,True,60.3172,24.9633,Europe/Helsinki
+HER,Heraklion Crete,Heraklion,Greece,True,35.3397,25.1803,Europe/Athens
+HHN,Frankfurt Hahn,Frankfurt,Germany,True,49.9487,7.26389,Europe/Berlin
+IAS,Iasi,IASI,Romania,False,47.17889,27.617,Europe/Bucharest
+IBZ,Ibiza,Ibiza,Spain,True,38.8729,1.37312,Europe/Madrid
+INI,Nis,Nis,Serbia,False,43.3372,21.8536,Europe/Belgrade
+JMK,Mykonos,Mykonos,Greece,True,37.4351,25.3481,Europe/Athens
+JSI,Skiathos,Skiathos,Greece,True,39.1775,23.5036,Europe/Athens
+JTR,Santorini,Santorini,Greece,True,36.3992,25.4793,Europe/Athens
+KGS,Kos,Kos,Greece,True,36.7933,27.0917,Europe/Athens
+KIR,Kerry,Kerry,Ireland,False,52.1809,-9.52378,Europe/Dublin
+KLU,Klagenfurt,Klagenfurt,Austria,True,46.6425,14.3377,Europe/Vienna
+KLX,Kalamata,Kalamata,Greece,True,37.0683,22.0255,Europe/Athens
+KRK,Krakow,Krakow,Poland,True,50.0777,19.7848,Europe/Warsaw
+KSC,Kosice,Kosice,Slovakia,True,48.6631,21.2411,Europe/Bratislava
+KTW,Katowice,Katowice,Poland,True,50.4743,19.08,Europe/Warsaw
+KUN,Kaunas,Kaunas,Lithuania,True,54.9639,24.0848,Europe/Vilnius
+LBA,Leeds Bradford,Leeds,United Kingdom,False,53.8659,-1.66057,Europe/London
+LCA,Larnaca,Larnaca,Cyprus,False,34.8751,33.6249,Asia/Nicosia
+LCJ,Lodz,Lodz,Poland,True,51.7219,19.3981,Europe/Warsaw
+LDE,Lourdes,Lourdes,France,True,43.1787,-0.006439,Europe/Paris
+LDY,Derry,Derry,United Kingdom,False,55.0428,-7.16111,Europe/London
+LEI,Almeria,Almeria,Spain,True,36.8439,-2.3701,Europe/Madrid
+LEJ,Leipzig,Leipzig,Germany,True,51.4324,12.2416,Europe/Berlin
+LGW,London Gatwick,London,United Kingdom,False,51.1481,-0.190278,Europe/London
+LIG,Limoges,Limoges,France,True,45.8628,1.17944,Europe/Paris
+LIL,Lille,Lille,France,True,50.5619,3.08944,Europe/Paris
+LIS,Lisbon,Lisbon,Portugal,True,38.7813,-9.13592,Europe/Lisbon
+LLA,Lulea,Luleå,Sweden,True,65.5425,22.1219,Europe/Stockholm
+LPA,Gran Canaria,Gran Canaria,Spain,True,27.9319,-15.3866,Atlantic/Canary
+LPL,Liverpool,Liverpool,United Kingdom,False,53.3336,-2.84972,Europe/London
+LPP,Lappeenranta,Lappeenranta,Finland,True,61.0446,28.1444,Europe/Helsinki
+LRH,La Rochelle,La Rochelle,France,True,46.1792,-1.19528,Europe/Paris
+LTN,London Luton,London,United Kingdom,False,51.8747,-0.368333,Europe/London
+LUX,Luxembourg,Luxembourg,Luxembourg,True,49.6233,6.2044,Europe/Luxembourg
+LUZ,Lublin,Lublin,Poland,True,51.2319,22.6903,Europe/Warsaw
+MAD,Madrid,Madrid,Spain,True,40.4936,-3.56676,Europe/Madrid
+MAH,Menorca,Menorca,Spain,True,39.8626,4.21865,Europe/Madrid
+MAN,Manchester,Manchester,United Kingdom,False,53.3537,-2.27495,Europe/London
+MLA,Malta,Malta,Malta,True,35.8575,14.4775,Europe/Malta
+MME,Teesside,Newcastle,United Kingdom,False,54.5092,-1.42941,Europe/London
+MMX,Malmo,Malmo,Sweden,True,55.5363,13.3762,Europe/Stockholm
+MRS,Marseille,Marseille,France,True,43.4393,5.22142,Europe/Paris
+MST,Maastricht,Maastricht,Netherlands,True,50.9117,5.77014,Europe/Amsterdam
+MXP,Milan Malpensa,Milan,Italy,True,45.63,8.7231,Europe/Rome
+NAP,Naples,Naples,Italy,True,40.5304,14.1727,Europe/Rome
+NCE,Nice,Nice,France,True,43.6584,7.21587,Europe/Paris
+NCL,Newcastle,Newcastle,United Kingdom,False,55.0375,-1.69167,Europe/London
+NDR,Nador,Nador,Morocco,False,34.9888,-3.02821,Africa/Casablanca
+NOC,Knock,Knock,Ireland,False,53.9103,-8.81849,Europe/Dublin
+NQY,Newquay Cornwall,Newquay,United Kingdom,False,50.4406,-4.99541,Europe/London
+NRN,Dusseldorf Weeze,Dusseldorf,Germany,True,51.6024,6.14217,Europe/Berlin
+NTE,Nantes,Nantes,France,True,47.1532,-1.61073,Europe/Paris
+NUE,Nuremberg,Nuremberg,Germany,True,49.4987,11.0669,Europe/Berlin
+OMR,Oradea,Oradea,Romania,False,47.025299,21.9025,Europe/Bucharest
+OPO,Porto,Porto,Portugal,True,41.2481,-8.68139,Europe/Lisbon
+ORB,Orebro,Örebro,Sweden,True,59.2275,15.0462,Europe/Stockholm
+ORK,Cork,Cork,Ireland,False,51.8413,-8.49111,Europe/Dublin
+OSI,Osijek,Osijek,Croatia,True,45.4627,18.8102,Europe/Zagreb
+OSL,Oslo,Oslo,Norway,True,60.2028,11.0839,Europe/Oslo
+OSR,Ostrava,Ostrava,Czech Republic,True,49.6963,18.1111,Europe/Prague
+OTP,Bucharest,Bucharest,Romania,False,44.5722,26.1022,Europe/Bucharest
+OUD,Oujda,Oujda,Morocco,False,34.7872,-1.92399,Africa/Casablanca
+OVD,Asturias,Oviedo,Spain,True,43.5636,-6.03462,Europe/Madrid
+OZZ,Ouarzazate,Ouarzazate,Morocco,False,30.9392,-6.9094,Africa/Casablanca
+PAD,Paderborn,Paderborn,Germany,True,51.3655,8.3702,Europe/Berlin
+PDL,Ponta Delgada,Ponta Delgada,Portugal,True,37.74194,-25.69778,Atlantic/Azores
+PDV,Plovdiv,Plovdiv,Bulgaria,False,42.0678,24.8508,Europe/Sofia
+PED,Pardubice,Pardubice,Czech Republic,True,50.0048,15.4419,Europe/Prague
+PEG,Perugia,Perugia,Italy,True,43.0959,12.5132,Europe/Rome
+PFO,Paphos,Paphos,Cyprus,False,34.718,32.4857,Asia/Nicosia
+PGF,Perpignan,Perpignan,France,True,42.7404,2.87067,Europe/Paris
+PIK,Glasgow Prestwick,Glasgow,United Kingdom,False,55.5094,-4.58667,Europe/London
+PIS,Poitiers,Poitiers,France,True,46.5877,0.306666,Europe/Paris
+PLQ,Palanga,Palanga,Lithuania,True,55.9733,21.0939,Europe/Vilnius
+PMF,Parma,Parma,Italy,True,44.8245,10.2964,Europe/Rome
+PMI,Palma de Mallorca,Palma,Spain,True,39.5517,2.73881,Europe/Madrid
+PMO,Palermo,Palermo,Italy,True,38.176,13.091,Europe/Rome
+POZ,Poznan,Poznan,Poland,True,52.421,16.8263,Europe/Warsaw
+PRG,Prague,Prague,Czech Republic,True,50.1008,14.26,Europe/Prague
+PSA,Pisa,Pisa,Italy,True,43.6839,10.3927,Europe/Rome
+PSR,Pescara,Pescara,Italy,True,42.4317,14.1811,Europe/Rome
+PUY,Pula,Pula,Croatia,True,44.8935,13.9222,Europe/Zagreb
+PVK,Preveza - Aktion,Preveza,Greece,True,38.9256,20.7653,Europe/Athens
+RAK,Marrakesh,Marrakesh,Morocco,False,31.6069,-8.0363,Africa/Casablanca
+RBA,Rabat,Rabat,Morocco,False,34.0515,-6.75152,Africa/Casablanca
+RDZ,Rodez,Rodez,France,True,44.4079,2.48267,Europe/Paris
+REU,Barcelona Reus,Reus,Spain,True,41.1474,1.16717,Europe/Madrid
+RHO,Rhodes,Rhodes,Greece,True,36.4054,28.0862,Europe/Athens
+RIX,Riga,Riga,Latvia,True,56.9236,23.9711,Europe/Riga
+RJK,Rijeka,Rijeka,Croatia,True,45.2169,14.5703,Europe/Zagreb
+RMI,Rimini,Rimini,Italy,True,44.0203,12.6117,Europe/Rome
+RMU,Murcia International,Murcia,Spain,True,37.7903,-1.1418,Europe/Madrid
+RVN,Lapland Rovaniemi,Rovaniemi,Finland,True,66.5631,25.8301,Europe/Helsinki
+RZE,Rzeszow,Rzeszow,Poland,True,50.11,22.019,Europe/Warsaw
+SBZ,Sibiu,Sibiu,Romania,False,45.7858,24.0856,Europe/Bucharest
+SCQ,Santiago,Santiago,Spain,True,42.8963,-8.41514,Europe/Madrid
+SCV,Suceava,Suceava,Romania,False,47.6875,26.3542,Europe/Bucharest
+SDR,Santander,Santander,Spain,True,43.4271,-3.82001,Europe/Madrid
+SFT,Skelleftea,Skelleftea,Sweden,True,64.6248,21.0769,Europe/Stockholm
+SKG,Thessaloniki,Thessaloniki,Greece,True,40.5197,22.9709,Europe/Athens
+SNN,Shannon,Shannon,Ireland,False,52.702,-8.92482,Europe/Dublin
+SOF,Sofia,Sofia,Bulgaria,False,42.67,23.35,Europe/Sofia
+SPU,Split,Split,Croatia,True,43.5389,16.2981,Europe/Zagreb
+STN,London Stansted,London,United Kingdom,False,51.885,0.235,Europe/London
+SUF,Lamezia,Lamezia,Italy,True,38.9054,16.2423,Europe/Rome
+SVQ,Seville,Seville,Spain,True,37.418,-5.89311,Europe/Madrid
+SXB,Strasbourg,Strasbourg,France,True,48.5383,7.62823,Europe/Paris
+SZG,Salzburg,Salzburg,Austria,True,47.7933,13.0043,Europe/Vienna
+SZY,Olsztyn - Mazury,Olsztyn,Poland,True,53.4819,20.9378,Europe/Warsaw
+SZZ,Szczecin,Szczecin,Poland,True,53.5847,14.9022,Europe/Warsaw
+TER,Terceira Lajes,Terceira,Portugal,True,38.761944,-27.090833,Atlantic/Azores
+TFN,Tenerife North,Tenerife,Spain,True,28.4827,-16.3415,Atlantic/Canary
+TFS,Tenerife South,Tenerife,Spain,True,28.0445,-16.5725,Atlantic/Canary
+TGD,Podgorica,Podgorica,Montenegro,False,42.3594,19.2519,Europe/Podgorica
+TLL,Tallinn,Tallinn,Estonia,True,59.4133,24.8328,Europe/Tallinn
+TLS,Toulouse,Toulouse,France,True,43.6044,1.4439,Europe/Paris
+TLV,Tel Aviv,Tel Aviv,Israel,False,32.0034,34.5258,Asia/Jerusalem
+TMP,Tampere,Tampere,Finland,True,61.4141,23.6044,Europe/Helsinki
+TNG,Tangier,Tangier,Morocco,False,35.7269,-5.91689,Africa/Casablanca
+TPS,Trapani-Marsala,Trapani,Italy,True,37.9114,12.488,Europe/Rome
+TRF,Oslo Torp,Sandefjord,Norway,True,59.1867,10.2586,Europe/Oslo
+TRN,Turin,Turin,Italy,True,45.2008,7.64963,Europe/Rome
+TRS,Trieste,Trieste,Italy,True,45.8275,13.4722,Europe/Rome
+TSF,Venice Treviso,Venice,Italy,True,45.6484,12.1944,Europe/Rome
+TSR,Timisoara,Timisoara,Romania,False,45.81,21.3381,Europe/Bucharest
+TTU,Tétouan,Tétouan,Morocco,False,35.5944,-5.32,Africa/Casablanca
+TUF,Tours Loire Valley,Tours,France,True,47.4322,0.727606,Europe/Paris
+TZL,Tuzla,Tuzla,Bosnia & Herzegovina,False,44.4586,18.7247,Europe/Sarajevo
+VAR,Varna,Varna,Bulgaria,False,43.1355,27.4931,Europe/Sofia
+VBY,Visby Gotland,Visby,Sweden,True,57.6596,18.3424,Europe/Stockholm
+VCE,Venice M.Polo,Venice,Italy,True,45.5053,12.3519,Europe/Rome
+VGO,Vigo,Vigo,Spain,True,42.23,-8.63,Europe/Madrid
+VIE,Vienna,Vienna,Austria,True,48.0639,16.3415,Europe/Vienna
+VIT,Vitoria (Basque Country),Vitoria-Gasteiz,Spain,True,42.8828,-2.7244,Europe/Madrid
+VLC,Valencia,Valencia,Spain,True,39.4893,-0.481625,Europe/Madrid
+VLL,Valladolid,Valladolid,Spain,True,41.7061,-4.85194,Europe/Madrid
+VNO,Vilnius,Vilnius,Lithuania,True,54.6341,25.2858,Europe/Vilnius
+VRN,Verona,Verona,Italy,True,45.3957,10.8885,Europe/Rome
+VST,Stockholm Västerås,Stockholm,Sweden,True,59.5894,16.6336,Europe/Stockholm
+VXO,Växjö Småland,Växjö,Sweden,True,56.9291,14.728,Europe/Stockholm
+WAW,Warsaw Chopin,Warsaw,Poland,True,52.1657,20.9671,Europe/Warsaw
+WMI,Warsaw Modlin,Warsaw,Poland,True,52.4511,20.6517,Europe/Warsaw
+WRO,Wroclaw,Wroclaw,Poland,True,51.1027,16.8858,Europe/Warsaw
+XCR,Paris Vatry,Paris,France,True,48.7761,4.18449,Europe/Paris
+XRY,Jerez,Jerez,Spain,True,36.7446,-6.06011,Europe/Madrid
+ZAD,Zadar,Zadar,Croatia,True,44.1083,15.3467,Europe/Zagreb
+ZAG,Zagreb,Zagreb,Croatia,True,45.7431,16.0689,Europe/Zagreb
+ZAZ,Zaragoza,Zaragoza,Spain,True,41.6662,-1.04155,Europe/Madrid
+ZTH,Zakynthos,Zakynthos,Greece,True,37.7509,20.8843,Europe/Athens
