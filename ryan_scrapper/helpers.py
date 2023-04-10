@@ -40,7 +40,7 @@ def get_flights_from_csv(file_name):
         flight = Flight(flight_dict)
         flights.append(flight)
     return flights
-def save_all_routes_to_csv(routes):
+def save_all_routes_to_csv(routes, file_name):
     df = pd.DataFrame(routes)
-    df.to_csv('output/routes.csv', index=False, header=False)
+    df.to_csv(f'output/{file_name}.csv', index=False, header=False)
 
