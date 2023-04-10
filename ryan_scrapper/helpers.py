@@ -21,20 +21,20 @@ def get_all_flights_by_destination_code(flights, dest_code):
         if flight.dest_air_code == dest_code:
             all_flights.append(flight)
     return all_flights
-def save_airports_to_csv(airports):
+def save_airports_to_csv(airports, file_name):
     airports_dict = [airport.to_dict() for airport in airports]
     df = pd.DataFrame.from_records(airports_dict)
-    df.to_csv('output/airports.csv', index=False)
+    df.to_csv(f'output/{file_name}.csv', index=False)
 
 
-def save_flights_to_csv(flights):
+def save_flights_to_csv(flights, file_name):
     flights_dict = [flight.to_dict() for flight in flights]
     df = pd.DataFrame.from_records(flights_dict)
-    df.to_csv('output/flights.csv', index=False)
+    df.to_csv(f'output/{file_name}.csv', index=False)
 
-def get_flights_from_csv():
+def get_flights_from_csv(file_name):
     flights = []
-    df = pd.read_csv('input/april_may_euro.csv')
+    df = pd.read_csv(f'input/{file_name}.csv')
     flights_dict = df.to_dict('records')
     for flight_dict in flights_dict:
         flight = Flight(flight_dict)
