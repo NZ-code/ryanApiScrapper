@@ -37,7 +37,8 @@ def get_flights_from_csv(file_name):
     df = pd.read_csv(f'input/{file_name}.csv')
     flights_dict = df.to_dict('records')
     for flight_dict in flights_dict:
-        flight = Flight(flight_dict)
+        flight = Flight()
+        flight.flight_from_dict(flight_dict)
         flights.append(flight)
     return flights
 def save_all_routes_to_csv(routes, file_name):

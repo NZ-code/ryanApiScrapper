@@ -18,7 +18,7 @@ class Flight:
         self.departure_time = ""
         self.arrival_time = ""
 
-    def __init__(self, flight_dict):
+    def flight_from_dict(self, flight_dict):
         self.dep_air_code = flight_dict['dep_air_code']
         self.dest_air_code = flight_dict['dest_air_code']
         self.date = flight_dict['date']
@@ -27,7 +27,7 @@ class Flight:
         self.price = flight_dict.get('price', "")
         self.price_euro = flight_dict.get('price_eur', "")
         self.operated_by = flight_dict.get('operated_by', "")
-        departure_time_str =  str(flight_dict.get('departure_time', ""))
+        departure_time_str = str(flight_dict.get('departure_time', ""))
         arrival_time_str = str(flight_dict.get('arrival_time', ""))
         try:
             self.departure_time = datetime.fromisoformat(departure_time_str.replace('Z', '+00:00'))
